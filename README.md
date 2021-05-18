@@ -9,8 +9,9 @@ This section will have some of the resources i used when i was starting in the f
 
 1. Tryhackme : https://tryhackme.com/ :
 This is hands down the best resource in my humble opinion to get started with, It has a lot walkthrough boxes, guides, and teaches you the basics very well i have learnt soo soo much from Tryhackme i would highly recommend to any one starting or even to someone who is InfoSec for a while as it has contents for all skill levels.
-	1.1. I would highly recommend starting with the Begginer Path for which you would have to Pathy 10$ a month but its highly worth it and you get tons more things with it. 
-	1.2. If you dont want to get the Premium Subscription just yet try following the free path from Tryhackme which you can find here : https://blog.tryhackme.com/free_path/
+
+1.1. I would highly recommend starting with the Begginer Path for which you would have to Pathy 10$ a month but its highly worth it and you get tons more things with it. 
+1.2. If you dont want to get the Premium Subscription just yet try following the free path from Tryhackme which you can find here : https://blog.tryhackme.com/free_path/
 
 2. Hackthebox Academy : https://academy.hackthebox.eu/ :
 This is another resource that recently released but it is more on the paid side for most of their content but they do have some great and detailed free modules which i would highly recommend. Some of the free content includes stuff like Linux Fundamentals , Introduction to Networking, etc. 
@@ -21,8 +22,11 @@ This is another great resource to get started in Penteration Testing even if you
 
 4. Hacker101 : https://www.hacker101.com/playlists/newcomers :
 
-So if you are looking to get into the Field of Bug Bounty and Web Security this is a great resource to start with they have video tutorials / CTFs to test your skills and docs.  i
+So if you are looking to get into the Field of Bug Bounty and Web Security this is a great resource to start with they have video tutorials / CTFs to test your skills and docs.  
 
 5. TCM Practical Ethical Hacking Course : https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course : 
 
 This is another great resource i would highly recommend to anyone planning to get into the field of CyberSecurity , This course goes through a lot of topics like AD Hacking, Exploit Development, Networking, Scripting, Web Security, Network Security and much more and all of the content is very well explained and taught.
+
+6. PortSwigger Academy : https://portswigger.net/web-security/ :
+This is a great resource to learn Web Security from the creators of BurpSuite and its all completely free , has super detialed explanations about the root cause of the vulnerability it also has great labs and explanaitions about them so that you can learn from practical hands one experience. 
