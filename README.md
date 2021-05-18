@@ -11,6 +11,7 @@ This section will have some of the resources i used when i was starting in the f
 This is hands down the best resource in my humble opinion to get started with, It has a lot walkthrough boxes, guides, and teaches you the basics very well i have learnt soo soo much from Tryhackme i would highly recommend to any one starting or even to someone who is InfoSec for a while as it has contents for all skill levels.
 
 1.1. I would highly recommend starting with the Begginer Path for which you would have to Pathy 10$ a month but its highly worth it and you get tons more things with it. 
+
 1.2. If you dont want to get the Premium Subscription just yet try following the free path from Tryhackme which you can find here : https://blog.tryhackme.com/free_path/
 
 2. Hackthebox Academy : https://academy.hackthebox.eu/ :
